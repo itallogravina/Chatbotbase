@@ -14,4 +14,4 @@ para executar
 rasa x
 ```
 #### 1-passo
-faça o trainamento do bot 
+faça o treinamento do bot 
