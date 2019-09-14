@@ -25,6 +25,9 @@
 - ola boa tarde
 - hi
 - salut
+- io
+- oio
+- /start
 
 ## intent:despedir
 - tchau obrigada
@@ -58,6 +61,10 @@
 - como assim
 - e como funciona
 - nao tenho certeza
+- me ajuda
+
+## intent:duvida
+- o que eu faço
 
 ## intent:elogios
 - você é muito educado
@@ -88,6 +95,10 @@
 - lindão
 - lindao
 - itallo
+
+## intent:nabad
+- estou triste
+- estou abado
 
 ## intent:negacao_botao
 - negação de botão
@@ -151,6 +162,13 @@
 - feio
 - burro
 
+## intent:perfeito
+- que fofo
+
+## intent:reset
+- resetar
+- reset
+
 ## intent:tudo_bem
 - oi, tudo bem
 - oi, como vai voce
@@ -175,3 +193,4 @@
 - como ta
 - joia
 - joinha
+- tudo bem ?

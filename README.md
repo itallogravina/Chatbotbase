@@ -15,3 +15,17 @@ rasa x
 ```
 #### 1-passo
 faça o treinamento do bot 
+
+
+### Telegram
+Ṕara usar ou testar no telegram usaremos o ngrok. Faça todos os passos no site deles apos isso vmaos para o terminal
+
+```
+ngrok http 5005
+```
+apos isso vamos executar o comando substituindo o XXXX pelo link gerado no comando anterio "NÃO PODE FECHAR O COMANDO ANTERIO TEM QUE FICAR ABERTO"
+```
+export RASA_X_HOSTNAME=https://xxxxxx.ngrok.io ; rasa x
+```
+
+
