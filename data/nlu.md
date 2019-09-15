@@ -28,6 +28,7 @@
 - io
 - oio
 - /start
+- Oi
 
 ## intent:despedir
 - tchau obrigada
@@ -50,6 +51,7 @@
 - blz
 - valew
 - valeu
+- por que comigo
 
 ## intent:diga_mais
 - como funciona
@@ -62,9 +64,14 @@
 - e como funciona
 - nao tenho certeza
 - me ajuda
+- estou apenas conversando
+- estou com uma duvida
 
 ## intent:duvida
 - o que eu faço
+- queria saber sobre mulheres
+- pq comigo
+- to com duvida
 
 ## intent:elogios
 - você é muito educado
@@ -194,3 +201,5 @@
 - joia
 - joinha
 - tudo bem ?
+- tudo bem?
+- estou tentando entender
