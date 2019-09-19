@@ -1,3 +1,12 @@
+## intent:aa
+- agora
+- sentindo
+- deixasse
+- encontrar
+- frustrada
+- assustado
+- ameaças
+
 ## intent:afirmacao_botao
 - afirmação de botão
 
@@ -29,6 +38,8 @@
 - oio
 - /start
 - Oi
+- vontade de deixalo
+- você fica frustrada, às vezes, com a dificuldade de encontrar uma saída
 
 ## intent:despedir
 - tchau obrigada
@@ -52,6 +63,8 @@
 - valew
 - valeu
 - por que comigo
+- Você parece estar se sentindo mais forte hoje
+- por quê
 
 ## intent:diga_mais
 - como funciona
@@ -66,6 +79,9 @@
 - me ajuda
 - estou apenas conversando
 - estou com uma duvida
+- Eu estou aqui pensando se você estaria realmente s\negura a
+- Como é que você enfrentou isso
+- Como é que foi isso para você
 
 ## intent:duvida
 - o que eu faço
@@ -102,6 +118,7 @@
 - lindão
 - lindao
 - itallo
+- Então você saiu da casa depois da última briga
 
 ## intent:nabad
 - estou triste
@@ -155,6 +172,8 @@
 - não obrigada
 - nao obrigada
 - nada
+- Eu estou imaginando que talvez você não se sinta à\n vontade para falar sobre isso\nagora
+- Você pode me falar mais um pouco sobre
 
 ## intent:out_of_scope
 - você fala sobre o meio ambiente
@@ -168,9 +187,13 @@
 - babaca
 - feio
 - burro
+- Você já deixou seu marido alguma vez antes
 
 ## intent:perfeito
 - que fofo
+- O que fez com que você o deixasse agora
+- parece que você se sente segura quando está no trabalho
+- parece que as agressões pioram quando ele bebe
 
 ## intent:reset
 - resetar
